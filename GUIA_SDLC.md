@@ -39,3 +39,9 @@ Este documento serve como o guia mestre para o desenvolvimento do projeto da Cal
 - **[2026-07-01]**: Fase de Desenvolvimento concluída. Os arquivos foram gerados com layout responsivo e interativo (efeito glassmorphism, gradiente escuro e hover states), juntamente com a lógica de cálculo. Início da fase de Testes.
 - **[2026-07-01]**: Fase de Testes concluída e validada pelo usuário. Nenhuma falha encontrada nas operações e validações. Início da fase de Deploy.
 - **[2026-07-01]**: Fase de Deploy concluída. Projeto versionado e enviado para o repositório no GitHub (`https://github.com/ivanltds/calculadora-app.git`). Ciclo SDLC finalizado com sucesso.
+
+---
+
+### Nova Feature: Transformação em PWA
+- **[2026-07-01]**: Planejamento e Desenvolvimento: Adição de `manifest.json`, `sw.js` (Service Worker), `icon.svg` e um botão de instalação para converter o site em PWA.
+- **[2026-07-01]**: Teste e Deploy: Funcionalidade de PWA injetada no código e enviada para o repositório.

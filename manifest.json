@@ -1,0 +1,16 @@
+{
+  "name": "Calculadora Premium",
+  "short_name": "Calculadora",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#110a1f",
+  "theme_color": "#1e0533",
+  "description": "Uma calculadora bonita e moderna com design premium.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -131,3 +131,16 @@ body {
     grid-column: 1 / span 2;
     border-radius: 16px;
 }
+
+.install-btn {
+    grid-column: 1 / span 4;
+    background: rgba(46, 229, 113, 0.1);
+    color: #2ee571;
+    font-weight: 500;
+    margin-top: 5px;
+    border: 1px solid rgba(46, 229, 113, 0.2);
+}
+
+.install-btn:hover {
+    background: rgba(46, 229, 113, 0.25);
+}
